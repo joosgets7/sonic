@@ -1,4 +1,4 @@
-Sonic2dhbjhfbjdnjndjn
+Sonic3hjsdbfhdsbjfdsjsf
 =====
 
 [![Test and Build](https://github.com/valeriansaliou/sonic/workflows/Test%20and%20Build/badge.svg?branch=master)](https://github.com/valeriansaliou/sonic/actions?query=workflow%3A%22Test+and+Build%22) [![Build and Release](https://github.com/valeriansaliou/sonic/workflows/Build%20and%20Release/badge.svg)](https://github.com/valeriansaliou/sonic/actions?query=workflow%3A%22Build+and+Release%22) [![dependency status](https://deps.rs/repo/github/valeriansaliou/sonic/status.svg)](https://deps.rs/repo/github/valeriansaliou/sonic) [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/valeriansaliou)
